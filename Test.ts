@@ -416,3 +416,16 @@
 // const temp=new Test();
 // temp.Celsius=25;
 // console.log(temp.Fahrenheit);
+
+// class MathOpration {
+//   public static PI: number = Math.PI;
+
+//   public static Add(num1: number, num2: number): any {
+//     return { sum: num1 + num2, difference: num1 - num2 };
+//   }
+// }
+// console.log(MathOpration.PI);
+
+
+// console.log(MathOpration.Add(51,4));
+
